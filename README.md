@@ -1,3 +1,10 @@
+# JSX Lesson
+This was a quick project on learning the basics of React syntax.
+The app was scaffolded using the [create-react-app](https://github.com/facebook/create-react-app)
+tool. See the default README below.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
