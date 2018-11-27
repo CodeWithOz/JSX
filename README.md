@@ -1,7 +1,8 @@
 # JSX Lesson
 This was a quick project on learning the basics of React syntax.
-The app was scaffolded using the [create-react-app](https://github.com/facebook/create-react-app)
-tool. See the default README below.
+It is part of Udemy's
+[Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/content)
+course taught by Stephen Grider.
 
 ---
 
